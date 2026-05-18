@@ -175,37 +175,3 @@ $ tech --list-all
 ```bash
 $ cat ./achievements
 ```
-
-```
-╔══════════════════════════════════════════════════════╗
-║  🥇  1er Lugar — Feria de Tecnología UNIFRANZ        ║
-║  🌐  B2 English Certificate — UMSS                   ║
-║  🔗  Cisco Networking Certificate                    ║
-║  🤖  Claude Code Certificate — Anthropic             ║
-╚══════════════════════════════════════════════════════╝
-```
-
-<br>
-
----
-
-```bash
-$ github --stats
-```
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DANNER5472&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&icon_color=7b2ff7&ring_color=00b4d8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DANNER5472&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9"/>
-
-<br><br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DANNER5472&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=7b2ff7&currStreakLabel=00b4d8&sideLabels=00ff41&dates=555555)](https://github.com/DANNER5472)
-
-</div>
-
-<br>
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00b4d8,100:00ff41&height=120&section=footer&text=&animation=twinkling)

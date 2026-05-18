@@ -108,21 +108,3 @@ danner = {
 
 </div>
 
----
-
-
-### `> github --stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DANNER5472&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00b4d8&icon_color=7b2ff7)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DANNER5472&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00b4d8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=DANNER5472&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=7b2ff7&currStreakLabel=00b4d8)
-
-</div>
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:00b4d8,100:00ff41&height=100&section=footer)
